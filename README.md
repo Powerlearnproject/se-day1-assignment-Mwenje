@@ -25,7 +25,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-1. Waterfall is a linear, sequential approach where each phase (requirements, design, implementation, testing, deployment) is completed before moving on to the next. It’s rigid, with little room for changes once a phase is finished.
+#1. Waterfall is a linear, sequential approach where each phase (requirements, design, implementation, testing, deployment) is completed before moving on to the next. It’s rigid, with little room for changes once a phase is finished.
 When to Use Waterfall:
 
 1. Projects with well-defined, stable requirements.
@@ -33,7 +33,7 @@ When to Use Waterfall:
 Example: Developing software for a regulatory-compliant system where requirements are unlikely to change.
 
 
-2. Agile, on the other hand, is iterative and flexible, with development occurring in short cycles (sprints) that allow for frequent adjustments based on user feedback.
+#2. Agile, on the other hand, is iterative and flexible, with development occurring in short cycles (sprints) that allow for frequent adjustments based on user feedback.
 When to Use Waterfall:
 
 1. Projects where requirements may evolve or are not fully understood at the outset.
