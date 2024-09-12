@@ -24,18 +24,25 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is a linear, sequential approach where each phase (requirements, design, implementation, testing, deployment) is completed before moving on to the next. It’s rigid, with little room for changes once a phase is finished. Agile, on the other hand, is iterative and flexible, with development occurring in short cycles (sprints) that allow for frequent adjustments based on user feedback.
 
+1. Waterfall is a linear, sequential approach where each phase (requirements, design, implementation, testing, deployment) is completed before moving on to the next. It’s rigid, with little room for changes once a phase is finished.
 When to Use Waterfall:
 
-Projects with well-defined, stable requirements.
-Projects with strict deadlines and fixed budgets.
+1. Projects with well-defined, stable requirements.
+2. Projects with strict deadlines and fixed budgets.
 Example: Developing software for a regulatory-compliant system where requirements are unlikely to change.
-When to Use Agile:
 
-Projects where requirements may evolve or are not fully understood at the outset.
-Projects needing frequent user feedback and continuous improvement.
+
+2. Agile, on the other hand, is iterative and flexible, with development occurring in short cycles (sprints) that allow for frequent adjustments based on user feedback.
+When to Use Waterfall:
+
+1. Projects where requirements may evolve or are not fully understood at the outset.
+2. Projects needing frequent user feedback and continuous improvement.
 Example: Developing a new mobile app where user preferences might change during development.
+
+
+
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 The Software Developer writes and implements code, the QA Engineer tests the code to ensure it meets quality standards, and the Project Manager coordinates the project, ensuring that the team stays on track and meets project goals. Effective collaboration between these roles is crucial for delivering high-quality software on time and within budget.
