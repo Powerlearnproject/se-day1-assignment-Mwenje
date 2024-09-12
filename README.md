@@ -16,9 +16,12 @@ Identify and describe at least three key milestones in the evolution of software
 3. The advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Requirements: Gathering and documenting user needs and system requirements.
-Design: Creating high-level and detailed designs of the software architecture and user interface.
-Implementation: Writing code and building the software according to the design specifications.
+1. Requirements: Gathering and documenting user needs and system requirements.
+2. Design: Creating high-level and detailed designs of the software architecture and user interface.
+3. Implementation: Writing code and building the software according to the design specifications.
+4. Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+5. Deployment: Releasing the software to users or customers.
+6. Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall is a linear, sequential approach where each phase (requirements, design, implementation, testing, deployment) is completed before moving on to the next. It’s rigid, with little room for changes once a phase is finished. Agile, on the other hand, is iterative and flexible, with development occurring in short cycles (sprints) that allow for frequent adjustments based on user feedback.
