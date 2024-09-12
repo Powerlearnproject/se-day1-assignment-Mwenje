@@ -77,6 +77,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
  <br/>
+
+ 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
