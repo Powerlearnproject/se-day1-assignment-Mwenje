@@ -92,6 +92,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 
 Question: 'Tell me about cats,' the AI might give a general answer.
+<br/>
 Improvement: 'Tell me about the history of domestic cats,' you'll get a more focused response."
 The improvement guide the AI towards the kind of response you want with a more focused response from the AI.
 
