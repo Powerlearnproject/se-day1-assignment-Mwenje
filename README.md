@@ -30,6 +30,7 @@ When to Use Waterfall:
 
 1. Projects with well-defined, stable requirements.
 2. Projects with strict deadlines and fixed budgets.
+   <br/>
 Example: Developing software for a regulatory-compliant system where requirements are unlikely to change.
 
 
@@ -38,6 +39,7 @@ When to Use Waterfall:
 
 1. Projects where requirements may evolve or are not fully understood at the outset.
 2. Projects needing frequent user feedback and continuous improvement.
+   <br/>
 Example: Developing a new mobile app where user preferences might change during development.
 
 
